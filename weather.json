@@ -1,0 +1,11 @@
+[
+    {
+        "city": "Arrah",
+        "temperature": 37.86,
+        "feels_like": 36.27,
+        "humidity": 19,
+        "description": "clear sky",
+        "wind_speed": 6.07,
+        "timestamp": "2026-03-30T16:38:46.300571"
+    }
+]
